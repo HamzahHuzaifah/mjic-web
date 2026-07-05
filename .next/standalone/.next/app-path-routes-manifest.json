@@ -1,0 +1,18 @@
+{
+  "/api/admin/posts/[id]/route": "/api/admin/posts/[id]",
+  "/api/admin/posts/route": "/api/admin/posts",
+  "/api/auth/login/route": "/api/auth/login",
+  "/_not-found/page": "/_not-found",
+  "/(admin)/login/page": "/login",
+  "/(admin)/admin/page": "/admin",
+  "/(public)/SMPB/page": "/SMPB",
+  "/(public)/akademik/page": "/akademik",
+  "/(public)/berita/page": "/berita",
+  "/(public)/galeri/page": "/galeri",
+  "/(public)/kontak/page": "/kontak",
+  "/(public)/tentang/page": "/tentang",
+  "/(admin)/admin/dashboard/page": "/admin/dashboard",
+  "/(admin)/admin/posts/new/page": "/admin/posts/new",
+  "/(admin)/admin/posts/page": "/admin/posts",
+  "/(public)/page": "/"
+}
